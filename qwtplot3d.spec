@@ -7,7 +7,7 @@ License:	BSD-like
 Group:		Libraries
 Source0:	http://dl.sourceforge.net/qwtplot3d/%{name}-%{version}.tgz
 # Source0-md5:	7ef960d7874f78162d6c9d241de2843e
-URL:		http://qwt.sourceforge.net/
+URL:		http://qwtplot3d.sourceforge.net/
 BuildRequires:	XFree86-OpenGL-devel
 BuildRequires:	qmake
 BuildRequires:	qt-devel
