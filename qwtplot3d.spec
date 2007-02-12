@@ -1,5 +1,5 @@
 Summary:	3D Graphics extension to the Qt GUI application framework
-Summary(pl):	Rozszerzenie graficzne 3D do ¶rodowiska GUI Qt
+Summary(pl.UTF-8):   Rozszerzenie graficzne 3D do Å›rodowiska GUI Qt
 Name:		qwtplot3d
 Version:	0.2.6
 Release:	1
@@ -18,21 +18,21 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 QwtPlot3D is a feature-rich Qt/OpenGL-based C++ programming library.
 It provides essentially a bunch of 3D-widgets for programmers.
 
-%description -l pl
-QwtPlot3D jest bogat± w mo¿liwo¶ci bibliotek± C++ opart± na Qt/OpenGL.
-Udostêpnia w szczególno¶ci zestaw kontrolek 3D dla programistów.
+%description -l pl.UTF-8
+QwtPlot3D jest bogatÄ… w moÅ¼liwoÅ›ci bibliotekÄ… C++ opartÄ… na Qt/OpenGL.
+UdostÄ™pnia w szczegÃ³lnoÅ›ci zestaw kontrolek 3D dla programistÃ³w.
 
 %package devel
 Summary:	Header files for qwtplot3d library
-Summary(pl):	Pliki nag³ówkowe biblioteki qwtplot3d
+Summary(pl.UTF-8):   Pliki nagÅ‚Ã³wkowe biblioteki qwtplot3d
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 
 %description devel
 Header files for qwtplot3d library.
 
-%description devel -l pl
-Pliki nag³ówkowe biblioteki qwtplot3d.
+%description devel -l pl.UTF-8
+Pliki nagÅ‚Ã³wkowe biblioteki qwtplot3d.
 
 %prep
 %setup -q -n %{name}
