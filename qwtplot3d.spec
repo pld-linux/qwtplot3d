@@ -1,5 +1,5 @@
 Summary:	3D Graphics extension to the Qt GUI application framework
-Summary(pl.UTF-8):   Rozszerzenie graficzne 3D do środowiska GUI Qt
+Summary(pl.UTF-8):	Rozszerzenie graficzne 3D do środowiska GUI Qt
 Name:		qwtplot3d
 Version:	0.2.6
 Release:	1
@@ -24,7 +24,7 @@ Udostępnia w szczególności zestaw kontrolek 3D dla programistów.
 
 %package devel
 Summary:	Header files for qwtplot3d library
-Summary(pl.UTF-8):   Pliki nagłówkowe biblioteki qwtplot3d
+Summary(pl.UTF-8):	Pliki nagłówkowe biblioteki qwtplot3d
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 
