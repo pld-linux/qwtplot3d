@@ -1,14 +1,14 @@
 Summary:	3D Graphics extension to the Qt GUI application framework
 Summary(pl.UTF-8):	Rozszerzenie graficzne 3D do środowiska GUI Qt
 Name:		qwtplot3d
-Version:	0.2.6
+Version:	0.2.7
 Release:	1
 License:	BSD-like
 Group:		Libraries
 Source0:	http://dl.sourceforge.net/qwtplot3d/%{name}-%{version}.tgz
-# Source0-md5:	7ef960d7874f78162d6c9d241de2843e
+# Source0-md5:	2f14660152e2e26bfeaaeec479ed9f2b
 URL:		http://qwtplot3d.sourceforge.net/
-BuildRequires:	XFree86-OpenGL-devel
+#BuildRequires:	XFree86-OpenGL-devel
 BuildRequires:	qmake
 BuildRequires:	qt-devel
 BuildRequires:	zlib-devel
