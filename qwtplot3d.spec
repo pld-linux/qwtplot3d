@@ -2,7 +2,7 @@ Summary:	3D Graphics extension to the Qt GUI application framework
 Summary(pl.UTF-8):	Rozszerzenie graficzne 3D do środowiska GUI Qt
 Name:		qwtplot3d
 Version:	0.2.7
-Release:	2
+Release:	3
 License:	BSD-like
 Group:		Libraries
 Source0:	http://dl.sourceforge.net/qwtplot3d/%{name}-%{version}.tgz
